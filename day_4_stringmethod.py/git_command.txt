@@ -1,0 +1,27 @@
+1.git is a version control system.
+it mainatins the code  history so that we can go to any version of the code at any required moment.
+git has major two significances:
+    =>to maintain the code version 
+    =>to collaborate in the team work.
+
+Repository => it is nothing but a git  project folder
+
+
+=> There are two Repositors
+=> One is the local repo  and  other is the remote repo.
+
+#git command
+Set username and email 
+1. git config --global user.name "username"
+ git config --global user.name "email"
+2. 
+git init
+    => initilizes  a repositors  in the local
+
+git add .
+    => add all the changes to the git
+
+3.git commit -m "commit message"
+    =>commits all the changes 
+
+4.

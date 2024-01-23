@@ -1,0 +1,9 @@
+1.git branch
+    =>list all the branchs and highlights the active/current branch
+
+
+2. git branch <branch_name>
+    =>creates a new branch <branch_name>
+
+3.git checkout <branch_name>
+    =
