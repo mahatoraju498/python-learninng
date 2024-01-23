@@ -6,4 +6,11 @@
     =>creates a new branch <branch_name>
 
 3.git checkout <branch_name>
-    =
+    =>jumps to the <branch_name> provided
+
+
+4.git checkout -b <branch_name>
+    => create the branch and jupms to same branch and also switch to new branch
+
+
+5.
