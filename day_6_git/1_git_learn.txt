@@ -1,0 +1,11 @@
+1. git status
+    => Provides the current  status of the project
+
+
+2.git clone <project -ssh-link>
+    downloads the repo to the local device 
+
+
+3.git branch -d <branch name>
+4.git reset
+5.

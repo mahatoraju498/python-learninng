@@ -24,4 +24,14 @@ git add .
 3.git commit -m "commit message"
     =>commits all the changes 
 
-4.
+4.git branch -m "main"
+    =>change the branch to main
+5.git remote add origin ssh
+    => link the github link/show the github link is added or connect the local repo to remote server
+6. git remote -v
+    =>show the connection with remote and local
+7.git push -u origin main
+    => check the code is push to  the repo  or nothing
+8.git pull
+    download  the code code form remote repo 
+9. 
