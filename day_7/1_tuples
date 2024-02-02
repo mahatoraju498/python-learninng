@@ -1,5 +1,5 @@
 #tuples are also the iterables in python (like list , string and set)
-#Tuples are immutables satatypes
+#Tuples are immutables datatypes
 #Tuples elements are enclosed inside small brackets
 
 
@@ -11,7 +11,7 @@ b = tuples() # Empty tuples
 
 
 
-list(),set(),tuple(),dict(),int(),float(),bool(),str(),#these are the built-in-functionfor datatypes.
+list(),set(),tuple(),dict(),int(),float(),bool(),str(),#these are the built-in-function for datatypes.
 
 
 c= (1,2,3)#Non-empty tuple

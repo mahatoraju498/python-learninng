@@ -1,4 +1,4 @@
-#Dictionary is also an iterable in pythin
+#Dictionary is also an iterable in python
 # It has the elements in the form of key -vlaue pair and enclosed eithin curly braces
 # Dictionary is also a mutable data type (like list and set)
 
