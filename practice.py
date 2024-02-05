@@ -12,7 +12,7 @@ data = [2, 3, 4, 5, 6]
 
 
     
-
+#reference form the lambda  topic
 
 result = map(lambda e:e** 2, data)
 print(list(result))   # [4, 9, 16, 25, 36]
