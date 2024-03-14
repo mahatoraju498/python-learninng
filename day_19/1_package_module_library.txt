@@ -1,0 +1,20 @@
+1. each python file in a python project is called a module
+2. collection of such module create a python package
+    => Previsouly every python package used to contain __init__.py file
+    => But in latest python versions __init__.py is not mandatory
+3. collection of these  packages which creates an end to end project is called library
+Type of imports in python
+
+#absoluate importas
+1.import <built-in-python module>
+2.import <built-in-python Package>
+3.from <module> import <class/function/variable>
+4.from <package> import <module>
+5.from <package.module>import<class/function/variable>
+6.import <third_party_package>
+
+
+#ralative import
+7.from ...day13.error
+
+
